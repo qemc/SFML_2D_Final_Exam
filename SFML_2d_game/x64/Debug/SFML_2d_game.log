@@ -1,0 +1,118 @@
+﻿  Źródło.cpp
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(29,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(84,97): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(84,97): warning C4244:         with
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(84,97): warning C4244:         [
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(84,97): warning C4244:             T=unsigned int
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(84,97): warning C4244:         ]
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(84,97): warning C4244:         and
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(84,97): warning C4244:         [
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(84,97): warning C4244:             T=float
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(84,97): warning C4244:         ]
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(84,29): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(84,29): warning C4244:         with
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(84,29): warning C4244:         [
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(84,29): warning C4244:             T=unsigned int
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(84,29): warning C4244:         ]
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(84,29): warning C4244:         and
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(84,29): warning C4244:         [
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(84,29): warning C4244:             T=float
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(84,29): warning C4244:         ]
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(92,14): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(94,97): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(94,97): warning C4244:         with
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(94,97): warning C4244:         [
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(94,97): warning C4244:             T=unsigned int
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(94,97): warning C4244:         ]
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(94,97): warning C4244:         and
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(94,97): warning C4244:         [
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(94,97): warning C4244:             T=float
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(94,97): warning C4244:         ]
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(94,29): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(94,29): warning C4244:         with
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(94,29): warning C4244:         [
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(94,29): warning C4244:             T=unsigned int
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(94,29): warning C4244:         ]
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(94,29): warning C4244:         and
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(94,29): warning C4244:         [
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(94,29): warning C4244:             T=float
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(94,29): warning C4244:         ]
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(109,99): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(109,99): warning C4244:         with
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(109,99): warning C4244:         [
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(109,99): warning C4244:             T=unsigned int
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(109,99): warning C4244:         ]
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(109,99): warning C4244:         and
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(109,99): warning C4244:         [
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(109,99): warning C4244:             T=float
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(109,99): warning C4244:         ]
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(109,31): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(109,31): warning C4244:         with
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(109,31): warning C4244:         [
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(109,31): warning C4244:             T=unsigned int
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(109,31): warning C4244:         ]
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(109,31): warning C4244:         and
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(109,31): warning C4244:         [
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(109,31): warning C4244:             T=float
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(109,31): warning C4244:         ]
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(134,100): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(134,100): warning C4244:         with
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(134,100): warning C4244:         [
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(134,100): warning C4244:             T=unsigned int
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(134,100): warning C4244:         ]
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(134,100): warning C4244:         and
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(134,100): warning C4244:         [
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(134,100): warning C4244:             T=float
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(134,100): warning C4244:         ]
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(134,32): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(134,32): warning C4244:         with
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(134,32): warning C4244:         [
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(134,32): warning C4244:             T=unsigned int
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(134,32): warning C4244:         ]
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(134,32): warning C4244:         and
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(134,32): warning C4244:         [
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(134,32): warning C4244:             T=float
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(134,32): warning C4244:         ]
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(190,28): warning C4244: "=": konwersja z "float" do "T", możliwa utrata danych
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(190,28): warning C4244:         with
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(190,28): warning C4244:         [
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(190,28): warning C4244:             T=int
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(190,28): warning C4244:         ]
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(230,71): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(230,71): warning C4244:         with
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(230,71): warning C4244:         [
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(230,71): warning C4244:             T=unsigned int
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(230,71): warning C4244:         ]
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(230,71): warning C4244:         and
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(230,71): warning C4244:         [
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(230,71): warning C4244:             T=float
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(230,71): warning C4244:         ]
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(230,33): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(230,33): warning C4244:         with
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(230,33): warning C4244:         [
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(230,33): warning C4244:             T=unsigned int
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(230,33): warning C4244:         ]
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(230,33): warning C4244:         and
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(230,33): warning C4244:         [
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(230,33): warning C4244:             T=float
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(230,33): warning C4244:         ]
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(235,71): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(235,71): warning C4244:         with
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(235,71): warning C4244:         [
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(235,71): warning C4244:             T=unsigned int
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(235,71): warning C4244:         ]
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(235,71): warning C4244:         and
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(235,71): warning C4244:         [
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(235,71): warning C4244:             T=float
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(235,71): warning C4244:         ]
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(235,33): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(235,33): warning C4244:         with
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(235,33): warning C4244:         [
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(235,33): warning C4244:             T=unsigned int
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(235,33): warning C4244:         ]
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(235,33): warning C4244:         and
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(235,33): warning C4244:         [
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(235,33): warning C4244:             T=float
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(235,33): warning C4244:         ]
+C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\SFML_2d_game\Źródło.cpp(22,1): warning C4715: "randomize_corner”: niewszystkie ścieżki kodu zwracają wartość
+  SFML_2d_game.vcxproj -> C:\Users\qemcx\source\repos\SFML_2D_Final_Exam\x64\Debug\SFML_2d_game.exe
